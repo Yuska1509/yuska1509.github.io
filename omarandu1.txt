@@ -1,0 +1,27 @@
+<html>
+ <head>
+ <title> omarandu </title>
+ </head> <body text="#000000" bgcolor="#CCFFFF" link="#3300FF" alink="#00CCFF" vlink="#9933CC">
+ <table border="3" bordercolor="#000000">
+  <tr>
+   <td align="center" height="300" width="300" bgcolor="#CCFF99"> <a href="omarandu.html" alt="главная"><img src="omarandu.jpg" align="center" width=115 height=115></a></td>
+   <td width="500" align="center"> <H1>OMA RANDU</H1>
+   <H2>творческое объединение</H2> </td>
+   <td width="500" aligt="center" valign="top"> <img src="madewithlove.png" width="500" height="250"> </td>
+  </tr>
+  <tr>
+   <td align="left" height="500" width="300" valign="top"><ul><font size="+2">
+       <li><a href="omarandu.html">о проекте</a>
+       <li><a href="how.html">как купить</a>
+       <li><a href="what.html">что купить</a>
+       </ul></td></font>
+   <td align="center" width="1000" valign="top" colspan="2" bgcolor="#CCFF99" > <H4>Что такое OMA RANDU?</H4>
+       <br><br>
+       OMA RANDU - творческое объединение и работы творческих людей Карелии и других регионов
+       <br>
+       Цель Oma Randu (от карел. "родной край") - объединить творческих людей Карелии и других регионов и продвигать их результаты. Мы предлагаем то, чтобы нам самим хотелось бы купить себе, близким и домой. Здесь представлены изделия, которые легко впишутся в современный стиль вас или дома. Мы хотим открыть Карелию с другой, творческой стороны её людей, а также развить проекты из других регионов. <b><i> Всё, что сделано их руками - made with love </b></i></td>  
+  <tr>
+   <td height="50" width="300" bgcolor="#CCFF99"> </td>
+   <td align="center" width="1000" colspan="2"> <pre> <a href="https://vk.com/omarandu">vk.com/omarandu</a>          <a href="https://www.instagram.com/oma_randu/">instagram.com/oma_randu/</a>          <a href="https://www.facebook.com/omarandustore">facebook.com/omarandustore</a></pre> </td>
+</body>
+ </html> 
