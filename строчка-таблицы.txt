@@ -1,0 +1,6 @@
+ <tr>
+ <td height="250" width="250"><a href="б.jpg"><img src=".jpg" align="left"></a><br clear="left"></td>
+              <td width="250"><a href="б.jpg"><img src=".jpg" align="left"></a><br clear="left"></td>
+              <td width="250"><a href="б.jpg"><img src=".jpg" align="left"></a><br clear="left"></td>
+              <td width="250"><a href="б.jpg"><img src=".jpg" align="left"></a><br clear="left"></td>
+  </tr>
